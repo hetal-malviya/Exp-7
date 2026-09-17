@@ -39,11 +39,11 @@ The application follows a **Single Activity Multiple Fragments** architecture fo
 The following screenshots demonstrate the ExploreHub user interface:
 
 
-| :---: | :---: |
+
 | ![Home](1.png) | ![Detail](2.png) |
 
 
-| :---: | :---: |
+
 | ![Favorites](3.png) | ![About](4.png) |
 
 ---
